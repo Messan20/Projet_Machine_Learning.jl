@@ -1,0 +1,7 @@
+name = "Projet_Machine_Learning"
+uuid = "ec5e7467-a031-44f6-9109-d73a81f7a98f"
+authors = ["Skytaine <prousterwan3737@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
